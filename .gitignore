@@ -1,0 +1,10 @@
+.DS_Store
+.dev
+*.iml
+*.ipr
+*.iws
+.gradle
+*.idea
+build/
+out/
+*.tar
